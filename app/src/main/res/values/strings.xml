@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="edit_task">Editar Tarefa</string>
+    <string name="delete_task">Deletar Tarefa</string>
+    <string name="task_title">Título da Tarefa</string>
+    <string name="task_description">Descrição</string>
+    <string name="priority">Prioridade</string>
+    <string name="due_date">Data de Vencimento</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_tasks">Nenhuma tarefa adicionada</string>
+</resources>
